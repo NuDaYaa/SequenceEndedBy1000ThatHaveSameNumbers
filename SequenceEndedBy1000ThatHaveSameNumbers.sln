@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceEndedBy1000ThatHaveSameNumbers", "SequenceEndedBy1000ThatHaveSameNumbers\SequenceEndedBy1000ThatHaveSameNumbers.csproj", "{CCE27428-4B54-480D-AC9A-FC58E413CABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE27428-4B54-480D-AC9A-FC58E413CABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE27428-4B54-480D-AC9A-FC58E413CABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE27428-4B54-480D-AC9A-FC58E413CABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE27428-4B54-480D-AC9A-FC58E413CABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7E36D5D-D835-4817-BFB2-B0D52025A412}
+	EndGlobalSection
+EndGlobal
